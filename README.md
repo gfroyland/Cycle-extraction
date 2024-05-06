@@ -4,4 +4,4 @@ Examples are (i) the Lorenz63 system, which detects the main "around the wings" 
 
 # Reference
 Spectral analysis of climate dynamics with operator-theoretic approaches. 
-Gary Froyland, Dimitrios Giannakis, Benjamin R. Lintner, Maxwell Pike, and Joanna Slawinska
+Gary Froyland, Dimitrios Giannakis, Benjamin R. Lintner, Maxwell Pike, and Joanna Slawinska, _Nature Communications_ 12:6570-, 2021.
